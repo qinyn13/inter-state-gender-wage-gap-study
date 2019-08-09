@@ -5,4 +5,4 @@ Data can be collected from American Community Survey(ACS). The time ranges from 
 Regression models are built to calculate the gender wage gap in each state and by controlling variables the gender wage gap
 that "can not be reduced" is revealed. We believe this is a quantitative estimate of discrimination and it varies across 
 states, which is quite straightforward from the heatmap.
-Furthur evidence can be found to show the correlation between conservativeness and discrimination in US states.
+Further evidence can be found to show the correlation between conservativeness and discrimination in US states.
